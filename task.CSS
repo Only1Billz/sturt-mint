@@ -1,0 +1,111 @@
+.background-img{
+    background-image: url(./papi.JPG);
+    background-size: cover;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25rem;
+    background-color: rgba(128, 128, 128, 0.438);
+}
+
+img{
+    width: 50px;
+    height: 70px;
+}
+span{
+    font-size: 2px;
+}
+#mint{
+    font-size: 35px;
+}
+
+/* p::first-letter{
+color: red;
+} */
+
+.first-div{
+    display: flex;
+    justify-content: start;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.third-div{
+    display: flex;
+    gap: 2rem;
+}
+
+.third-div-1{
+    background-color: orange;
+    padding: 10px 20px;
+    border:  none;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 1.2rem;
+    display: flex;
+    gap: 2rem;
+    color: whitesmoke;
+}
+
+li{
+    display: inline;
+    font-family: sans-serif;
+} 
+
+h3{
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+}
+
+.well{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#question{
+    color:whitesmoke;
+    margin: top 30rem;
+    border-style: solid rgba(128, 128, 128, 0.418);
+}
+
+.sign-up{
+    margin-left: 45rem;
+    color: white;
+    background-color: orange;
+    border: none;
+    padding: 10px 20px;
+}
+
+.last{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+}
+
+.h4{
+    display:flex;
+    font-family: sans-serif;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    gap: 12rem;
+}
